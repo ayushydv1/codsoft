@@ -1,0 +1,12 @@
+@layer base{
+    body{
+        background-color: rgb(224, 199, 240);
+    }
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
